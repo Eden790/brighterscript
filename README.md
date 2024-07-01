@@ -1,3 +1,8 @@
+#
+
+
+
+
 # BrighterScript
 
 A superset of Roku's BrightScript language. Compiles to standard BrightScript.
