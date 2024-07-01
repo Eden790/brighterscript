@@ -1,5 +1,6 @@
-# BrighterScript
+# Beta134
 
+# BrighterScript
 A superset of Roku's BrightScript language. Compiles to standard BrightScript.
 
 [![build status](https://img.shields.io/github/actions/workflow/status/rokucommunity/brighterscript/build.yml?branch=master&logo=github)](https://github.com/rokucommunity/brighterscript/actions?query=branch%3Amaster+workflow%3Abuild)
@@ -41,7 +42,7 @@ BrighterScript adds several new features to the BrightScript language such as na
       - Support for class inheritance and method overrides
       - Class fields and can be marked as `public`, `protected`, and `private` and incorrect access will be enforced by compile-time checks.
       - Class methods are automatically scoped to the class
-    - [Namespaces](https://github.com/rokucommunity/brighterscript/blob/master/docs/namespaces.md):
+    - [Namespaces](https://github.com/eden790//rokucommunity/brighterscript/blob/master/docs/namespaces.md):
       - Automatically add a name prefix to all methods inside a namespace block.
       - Prevents method naming collisions and improves code readability and maintainability.
       - Missing method invocations, and other namespace related syntax errors are reported at compile time.
